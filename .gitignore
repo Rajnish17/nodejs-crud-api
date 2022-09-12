@@ -1,3 +1,5 @@
 /node_modules
 /crudapp
 /views
+/controllers/auth.controller.js
+/routes/auth.route.js
